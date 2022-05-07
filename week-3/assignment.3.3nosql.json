@@ -1,0 +1,39 @@
+{
+  "publisher_name": "Hobbiton",
+  "publisher_code": "6524221",
+  "Publisher_address": "123 The Shire",
+  "books": [
+    {
+      "book_isbn": "123542151",
+      "book_name": "Lord of the Rings",
+      "book_price": "14.99",
+      "authors": [
+        {
+          "author_first_name": "J.R.",
+          "author_last_name": "Tolkien",
+          "author_phone": "554-452-4135",
+          "author_email": "jt@rohan.com"
+        }
+      ]
+    },
+    {
+      "book_isbn": "da3241124",
+      "book_name": "Good Omens",
+      "book_price": "22.99",
+      "authors": [
+        {
+          "author_first_name": "J. J.",
+          "author_last_name": "ABRAMS",
+          "author_phone": "854-482-4135",
+          "author_email": "jj@abrams.com"
+        },
+        {
+          "author_first_name": "DOUG",
+          "author_last_name": "DORST",
+          "author_phone": "111-222-4444",
+          "author_email": "DD@Dorst.com"
+        }
+      ]
+    }
+  ]
+}

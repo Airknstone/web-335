@@ -1,0 +1,35 @@
+{
+  "user": [
+    {
+      "_id": "Shire8257",
+      "firstName": "Frodo",
+      "lastName": "Baggins",
+      "link_user_role": [
+        {
+          "defend": [
+            {
+              "link_role_permission": {
+                "permission": "Access Rivendale"
+              },
+              "link_role_permission": {
+                "permission": "Wear Mythrail"
+              }
+            }
+          ]
+        },
+        {
+          "special_Ability": [
+            {
+              "link_role_permission": {
+                "permission": "Sneak"
+              },
+              "link_role_permission": {
+                "permission": "Invisibility"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
